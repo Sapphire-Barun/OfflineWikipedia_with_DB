@@ -1,0 +1,18 @@
+# Maven build target directory (compiled bytecode & dependencies)
+target/
+
+# IDE & Editor configuration (contains local machine paths)
+.vscode/
+.idea/
+*.iml
+
+# Compiled class files
+bin/
+*.class
+
+# Log files
+*.log
+
+# OS metadata files
+Thumbs.db
+.DS_Store
